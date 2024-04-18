@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Harshmandeep.
 
 ✍️ 🪖 🚀 ⚡️  
-I'm a dedicated Full Stack Developer with a unique background in industrial fabrication. After transitioning my focus to software development, I've successfully developed complex web applications using JavaScript, TypeScript, React, Node.js, Express, Vite, and MySQL.
+I'm a dedicated Full Stack Developer. I've successfully developed complex web applications using JavaScript, TypeScript, React, Node.js, Express, Vite, and MySQL.
 
 💼 &nbsp;I have professional experience as a Web Developer, where I significantly contributed to various web development projects. I'm passionate about creating software solutions that make a positive impact.
 
